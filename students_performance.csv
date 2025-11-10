@@ -1,0 +1,11 @@
+student_id,gender,math_score,parental_education,StudyTime 
+1,female,72,Bachelor,2
+2,male,69,Some college,3
+3,female,85,Master,4
+4,female,55,High school,2
+5,male,76,Associate,3
+6,female,80,Bachelor,4
+7,male,54,High school,1
+8,female,66,Some college,2
+9,male,60,High school,3
+10,female,90,Master,4
